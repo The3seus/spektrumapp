@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762291330980",
+    "firebase_url": "https://spektrum-e682e.firebaseio.com",
+    "project_id": "spektrum-e682e",
+    "storage_bucket": "spektrum-e682e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762291330980:android:fcf45e5fa72e533b862b31",
+        "android_client_info": {
+          "package_name": "com.example.spektrum_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762291330980-76947gmfihd0msfu1uf10pv32ffoducc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97O3rEK7dI53lYt45CGoqgAXDeAA2NAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762291330980-76947gmfihd0msfu1uf10pv32ffoducc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
